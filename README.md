@@ -81,7 +81,11 @@ A calculated measured Key Performance Indicator (KPI) quantifies metrics derived
 ---
 
 ## Dashboard
-
+<img width="911" alt="image" src="https://github.com/jayeshshimpi110920/Diversity-Insights-and-visualization-Dashboard-by-PowerBi/assets/100369017/60f1412e-eb8f-4f0d-8301-0e8f17d4d8ef">
+--------------------------------------------------
+<img width="906" alt="image" src="https://github.com/jayeshshimpi110920/Diversity-Insights-and-visualization-Dashboard-by-PowerBi/assets/100369017/4dc424c1-bc36-4413-991f-c8fb8aef6bb4">
+--------------------------------------------------
+<img width="912" alt="image" src="https://github.com/jayeshshimpi110920/Diversity-Insights-and-visualization-Dashboard-by-PowerBi/assets/100369017/5a0fd04a-0f4a-488f-a1ce-b56ef8d0be35">
 
 ---
 
